@@ -11,6 +11,7 @@
         <item>@mipmap/vegdahl</item>
         <item>@mipmap/teresa</item>
         <item>@mipmap/scottiez</item>
+        <item>@mipmap/markus</item>
         <item>@mipmap/liz</item>
     </array>
 
@@ -20,6 +21,7 @@
         <item>Dr. Steven Vegdahl</item>
         <item>Teresa</item>
         <item>Scottie</item>
+        <item>Markus</item>
         <item>Liz</item>
     </string-array>
 
