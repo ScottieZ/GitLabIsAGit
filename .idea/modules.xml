@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/GitLabIsAGit.iml" filepath="$PROJECT_DIR$/GitLabIsAGit.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cs371gitLab-055da699769ec93c35bde84c23da8bcea2992769.iml" filepath="$PROJECT_DIR$/cs371gitLab-055da699769ec93c35bde84c23da8bcea2992769.iml" />
     </modules>
   </component>
 </project>
