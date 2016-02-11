@@ -52,7 +52,7 @@ public class TextModActivity extends ActionBarActivity implements View.OnClickLi
      * @see android.app.Activity#onCreate(android.os.Bundle)
      */
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    public void onCreate(Bundle savedInstanceState) {
 
         // perform superclass initialization; load the layout
         super.onCreate(savedInstanceState);
@@ -186,7 +186,7 @@ public class TextModActivity extends ActionBarActivity implements View.OnClickLi
     /**
      * class that handles our spinner's selection events
      */
-    private class MySpinnerListener implements OnItemSelectedListener {
+    public class MySpinnerListener implements OnItemSelectedListener {
 
         /**
          * @see android.widget.AdapterView.OnItemSelectedListener#onItemSelected(
